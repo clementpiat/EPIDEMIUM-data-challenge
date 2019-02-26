@@ -41,9 +41,3 @@ print(c2[col_mort+3],mort)
 ligne_annee[col_mort]=ligne_annee_avant[col_mort]
 
 
-#1) faire tourner le NN main
-#3) corriger la focntion paramètre
-#2) faire un inventaire des paramètres pour différents pics
-# voir avec un pro ce qu'il en pense si nécessaire
-#4) justifier nos prédictions ( peut être que pour des nouvelles valeurs de paramètres on peut pas être sûr comme pour les pays très développés par exemple ) , science de la prédiction , météo , ...
-#5) vérifier que ça n'augmente pas pour tous 
